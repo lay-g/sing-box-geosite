@@ -17,6 +17,7 @@
         "chat.openai.com.cdn.cloudflare.net",
         "daily-cloudcode-pa.googleapis.com",
         "gateway.ai.cloudflare.com",
+        "inference.codeium.com",
         "jules.google.com",
         "makersuite.google.com",
         "openai-api.arkoselabs.com",
@@ -25,6 +26,8 @@
         "openrouter.ai",
         "production-openaicom-storage.azureedge.net",
         "robinfrontend-pa.googleapis.com",
+        "server.codeium.com",
+        "server.self-serve.windsurf.com",
         "static.cloudflareinsights.com"
       ]
     },
